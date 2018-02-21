@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "hospital": [
+    {
+      "tit": "北京佳美口腔医院(三里屯店)",
+      "datas": [
+        {
+          "title": "牙齿矫正牙齿矫正牙齿",
+          "price": 12000.00,
+          "checked": false
+        },
+        {
+          "title": "牙齿矫正牙齿矫正牙齿",
+          "price": 12000.00,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "tit": "英煌整型医院(三里屯店)",
+      "datas": [
+        {
+          "title": "瘦脸针",
+          "price": 3000.00,
+          "checked": false
+        },
+        {
+          "title": "厚唇",
+          "price": 8000.00,
+          "checked": false
+        }
+      ]
+    }
+  ]
+}
